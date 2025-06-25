@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "event_category": "Cricket",
+    "title": "ICC CHAMPIONS TROPHY 2025",
+    "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/5209/1740234845209-h",
+    "match-details": "AFGHANISTAN vs ENGLAND",
+    "time": "25/06/2025 | 02:30 P.M IST",
+    "end-time": "26/06/2025 | 11:00 P.M IST",
+    "live-status": "LIVE",
+    "feeds": [
+      {
+        "url": "https://24sports-net-amazon-prime.blogspot.com/",
+        "buttonName": "AMAZON PRIME ENGLISH"
+      },
+      {
+        "url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=502",
+        "buttonName": "SKY SPORTS"
+      }
+    ],
+    "rank": "normal"
+  },
+  {
+    "id": 2,
+    "event_category": "Cricket",
+    "title": "WOMENS PREMIER LEAGUE",
+    "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/532/1735025930532-a",
+    "match-details": "RCB WOMEN vs MI WOMEN",
+    "time": "25/06/2025 | 02:07 P.M IST",
+    "end-time": "26/06/2025 | 12:00 A.M IST",
+    "live-status": "LIVE",
+    "feeds": [
+      {
+        "url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=503",
+        "buttonName": "ISL ENGLISH"
+      }
+    ],
+    "rank": "top"
+  }
+]
